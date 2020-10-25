@@ -7,3 +7,7 @@ parsers:
     page_type: home
     disabled: false
 
+  - file: ./parsers/image.rb
+    page_type: image
+    disabled: true
+
