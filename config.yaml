@@ -9,5 +9,5 @@ parsers:
 
   - file: ./parsers/image.rb
     page_type: image
-    disabled: true
+    disabled: false
 
