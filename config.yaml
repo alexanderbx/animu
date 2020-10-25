@@ -5,5 +5,5 @@ seeder:
 parsers:
   - file: ./parsers/home.rb
     page_type: home
-    disabled: true
+    disabled: false
 
